@@ -214,11 +214,10 @@ https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Meta%20Ad
 
 ## Instagram Dashboard
 ![Instagram Dashboard]https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Instagram%20Dashboard.png
->  Upload these screenshots to your repository and update file names accordingly.
 
 ---
 
-# 🔍 Detailed Business Insights
+#  Detailed Business Insights
 
 ##   Awareness & Engagement
 - High CTR (11.76%) indicates strong ad attractiveness.
