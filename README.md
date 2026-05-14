@@ -77,7 +77,7 @@ The dashboard was built using multiple related tables including:
 # 📸 Dataset Preview
 
 ## Ads Dataset
-![Ads Dataset](ads_dataset.png)
+![Ads Dataset](https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/ads.csv
 
 ## Campaign Dataset
 ![Campaign Dataset](campaign_dataset.png)
