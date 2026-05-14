@@ -89,7 +89,7 @@ The dashboard was built using multiple related tables including:
 ## Users Dataset
 ![Users Dataset](users_dataset.png)
 
-> 📌 Replace the above image names with your actual dataset screenshot file names uploaded to GitHub.
+
 
 ---
 
@@ -112,9 +112,9 @@ The dashboard was built using multiple related tables including:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
-## ✅ KPI Cards
+##  KPI Cards
 Displays high-level business metrics:
 - Impressions
 - Clicks
@@ -126,7 +126,7 @@ Displays high-level business metrics:
 
 ---
 
-## ✅ Gender Analysis (Donut Chart)
+##  Gender Analysis (Donut Chart)
 Analyzes engagement contribution by:
 - Male
 - Female
@@ -137,7 +137,7 @@ Female audiences contribute the highest engagement.
 
 ---
 
-## ✅ Age Group Analysis (Bar Chart)
+##  Age Group Analysis (Bar Chart)
 Tracks performance across audience age groups.
 
 ### Insight:
@@ -145,7 +145,7 @@ The **18–30 age group** shows the highest engagement and interaction levels.
 
 ---
 
-## ✅ Geographic Analysis (Country-Level)
+##  Geographic Analysis (Country-Level)
 Compares campaign performance across countries.
 
 ### Top Performing Countries:
@@ -160,7 +160,7 @@ India and the US show strong engagement potential.
 
 ---
 
-## ✅ Weekly Trend Analysis
+## Weekly Trend Analysis
 Stacked column chart showing weekly performance trends by ad type.
 
 ### Insight:
@@ -168,7 +168,7 @@ Campaign performance remains consistent across weeks with no major drops.
 
 ---
 
-## ✅ Hourly Trend Analysis
+## Hourly Trend Analysis
 Area chart showing engagement patterns by hour.
 
 ### Insight:
@@ -176,7 +176,7 @@ Peak engagement occurs during afternoon and evening hours.
 
 ---
 
-## ✅ Calendar Heatmap
+##  Calendar Heatmap
 Visualizes campaign activity by date.
 
 ### Insight:
@@ -188,7 +188,7 @@ Likely due to promotions or campaign launches.
 
 ---
 
-## ✅ Ad Type Performance Matrix
+##  Ad Type Performance Matrix
 
 | Ad Type | Performance Summary |
 |----------|--------------------|
@@ -205,8 +205,7 @@ Video ads perform best overall.
 # 📊 Dashboard Screenshots
 
 ## Main Dashboard
-![Main Dashboard](Facebook%20Dashboard.png)
-
+![Main Dashboard](
 ---
 
 ## Facebook Dashboard
@@ -296,16 +295,16 @@ Schedule campaigns during peak activity hours.
 #   Project Structure
 
 ```bash
-📦 Meta-Ad-Performance-Dashboard
- ┣ 📊 Meta Dashboard.pbix
- ┣ 📄 README.md
- ┣ 🖼️ Facebook Dashboard.png
- ┣ 🖼️ ads_dataset.png
- ┣ 🖼️ campaign_dataset.png
- ┣ 🖼️ ad_events_dataset.png
- ┣ 🖼️ users_dataset.png
- ┣ 📑 Business Requirements Document.pdf
- ┗ 📑 Dashboard Insights.pdf
+Meta-Ad-Performance-Dashboard
+ ┣  Meta Dashboard.pbix
+ ┣  README.md
+ ┣  Facebook Dashboard.png
+ ┣  ads_dataset.png
+ ┣  campaign_dataset.png
+ ┣  ad_events_dataset.png
+ ┣  users_dataset.png
+ ┣  Business Requirements Document.pdf
+ ┗ Dashboard Insights.pdf
 ```
 
 ---
