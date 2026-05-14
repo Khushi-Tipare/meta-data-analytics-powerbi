@@ -1,7 +1,6 @@
 #  Meta Ad Performance Dashboard | Power BI Project
 
-![Dashboard Preview](Facebook%20Dashboard.png)
-
+![Dashboard Preview](https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Facebook%20Dashboard.png)
 ---
 
 #   Project Overview
@@ -33,7 +32,7 @@ This dashboard solves these challenges by centralizing all campaign analytics in
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -93,7 +92,7 @@ The dashboard was built using multiple related tables including:
 
 ---
 
-# 📈 Key Performance Indicators (KPIs)
+#  Key Performance Indicators (KPIs)
 
 | KPI | Value | Description |
 |------|------|-------------|
@@ -202,20 +201,17 @@ Video ads perform best overall.
 
 ---
 
-# 📊 Dashboard Screenshots
+# Dashboard Screenshots
 
-## Main Dashboard
-![Main Dashboard](
----
+
 
 ## Facebook Dashboard
-![Facebook Dashboard](facebook_page.png)
+![Facebook Dashboard]https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Facebook%20Dashboard.png
 
 ---
 
 ## Instagram Dashboard
-![Instagram Dashboard](instagram_page.png)
-
+![Instagram Dashboard]
 >  Upload these screenshots to your repository and update file names accordingly.
 
 ---
