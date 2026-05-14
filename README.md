@@ -81,10 +81,12 @@ The dashboard was built using multiple related tables including:
 
 ## Campaign Dataset
 ![Campaign Dataset](https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/campaigns.csv)
+
 ## Ad Events Dataset
 ![Ad Events Dataset](https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/ad_events.csv)
+
 ## Users Dataset
-![Users Dataset](users_dataset.png)
+![Users Dataset](https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/users.csv)
 
 
 
