@@ -203,17 +203,13 @@ Video ads perform best overall.
 
 # Dashboard Screenshots
 
-## Main Dashboard
-https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Meta%20Add%20Dashboard.pbit
-
-
 ## Facebook Dashboard
-![Facebook Dashboard]https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Facebook%20Dashboard.png
+[Facebook Dashboard]https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Facebook%20Dashboard.png
 
 ---
 
 ## Instagram Dashboard
-![Instagram Dashboard]https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Instagram%20Dashboard.png
+[Instagram Dashboard]https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Instagram%20Dashboard.png
 
 ---
 
