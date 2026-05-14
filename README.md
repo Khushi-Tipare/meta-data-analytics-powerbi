@@ -285,25 +285,6 @@ Schedule campaigns during peak activity hours.
 
 ---
 
-#   Project Structure
-
-```bash
-Meta-Ad-Performance-Dashboard
- ┣  Meta Dashboard.pbix
- ┣  README.md
- ┣  Facebook Dashboard.png
- ┣  ads_dataset.png
- ┣  campaign_dataset.png
- ┣  ad_events_dataset.png
- ┣  users_dataset.png
- ┣  Business Requirements Document.pdf
- ┗ Dashboard Insights.pdf
-```
-
----
-
-
-
 #   Skills Demonstrated
 
 - Power BI Dashboard Design
