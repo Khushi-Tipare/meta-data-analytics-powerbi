@@ -203,6 +203,8 @@ Video ads perform best overall.
 
 # Dashboard Screenshots
 
+## Main Dashboard
+https://github.com/Khushi-Tipare/meta-data-analytics-powerbi/blob/main/Meta%20Add%20Dashboard.pbit
 
 
 ## Facebook Dashboard
@@ -305,24 +307,7 @@ Meta-Ad-Performance-Dashboard
 
 ---
 
-#   How to Run the Project
 
-## Step 1
-Clone the repository:
-```bash
-git clone https://github.com/your-username/Meta-Ad-Performance-Dashboard.git
-```
-
-## Step 2
-Open the `.pbix` file in Power BI Desktop.
-
-## Step 3
-Refresh the data if required.
-
-## Step 4
-Interact with filters and visuals to explore insights.
-
----
 
 #   Skills Demonstrated
 
